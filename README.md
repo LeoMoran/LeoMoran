@@ -1,4 +1,4 @@
-- 👋 Hello, my name is @LeoMoran
+- 👋 Hello, my name is Leo Rey Moran
 - 👀 I’m interested in software engineering and game development
 - 🌱 I’m currently pursuing a bachelor's degree in computer science
 - 💞️ I’m looking for career positions after I graduate on June 14th
